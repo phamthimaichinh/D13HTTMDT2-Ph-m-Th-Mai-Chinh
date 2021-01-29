@@ -1,0 +1,23 @@
+<!DOCTYPE html>  
+<html> 
+    <head>
+        <h1>Bài tập thực hành</h1>
+     <ol>  
+ <li>Tạo 1 nhóm làm việc trên trello đặt tên: Lop HoVaTen - Team. Thêm thành viên diepcd@epu.edu.vn vào team.</li>  
+ <li>Tạo 1 board Trello đặt tên: Lop HoVaTen - Board. Thêm nhóm làm việc tạo ở B1 vào board.</li>  
+ <li>Tạo 1 công việc, tự giao cho mình với các thông tin:</li>  
+ <ul>  
+ <li>Tạo mới 1 project trên github. Đặt tên: Lop HoVaTen - Project.</li>  
+ <li>Thêm thành viên: diepcd@epu.edu.vn là thành viên có quyền Owner.</li>  
+ <li>Tạo file: Lop.HoVaTen.txt. Nội dung ghi: Tên lớp, Họ và Tên. Push lên github.</li>  
+ <li>Chụp ảnh màn hình Trello và màn hình lịch sử Git đưa vào báo cáo (file doc)</li>  
+ <li>Tạo mục "baocao", đưa file báo cáo doc vào mục và push lên.</li>
+</ul>
+ <li>Sau khi check list hoàn thiện. Chuyển qua "Done".</li> 
+<li>Nộp file báo cáo lên Classroom.</li> 
+</ol>
+    </head> 
+    <body> 
+        <!-- Nội dung trang web -->
+    </body>  
+</html>
